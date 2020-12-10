@@ -1,1 +1,1 @@
-# Aplpication
+# Application
